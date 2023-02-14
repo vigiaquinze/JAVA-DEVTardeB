@@ -2,6 +2,7 @@ package Java.CalculadoraGastoViagem;
 
 public class CustoViagem {
     public static void main(String[] args) {
+        //Teste de versionamento
         //Usuário definir a distância percorrida pela viagem
         double distanciaPercorrida = 148;
         //Usuário definir o valor do combustível por litro
