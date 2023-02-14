@@ -6,5 +6,6 @@ public class App {
     Operadores obj1 = new Operadores();
     obj1.aritmetico();
     obj1.atribuicao();
+    obj1.relacionais();
     }
 }
