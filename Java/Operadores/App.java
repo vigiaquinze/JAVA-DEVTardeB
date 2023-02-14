@@ -7,5 +7,6 @@ public class App {
     obj1.aritmetico();
     obj1.atribuicao();
     obj1.relacionais();
+    obj1.logicos();
     }
 }
