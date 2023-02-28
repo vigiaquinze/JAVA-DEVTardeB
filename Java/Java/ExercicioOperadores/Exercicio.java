@@ -18,7 +18,9 @@ public class Exercicio {
         System.out.println("Insira a porcentagem de frequência do aluno:");
         int porcentagemFrequencia = scan.nextInt();
         boolean frequenciaAprovada = porcentagemFrequencia>=75;
+        System.out.println("O aluno está aprovado por frequência?" +frequenciaAprovada);
         //Operação Lógica
-        boolean resultadoFinal = (mediaAprovada=true) && (frequenciaAprovada=true);
+        boolean resultadoFinal = (mediaAprovada==true) && (frequenciaAprovada==true);
+        System.out.println("O aluno está aprovado no curso?" +resultadoFinal);
     }
 }
