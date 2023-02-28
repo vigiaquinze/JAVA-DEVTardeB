@@ -16,4 +16,8 @@ public class DecisaoIf {
     double precoFinal = precoProduto-valorDesconto;
     System.out.println("O valor do produto com desconto é de R$" +precoFinal);
     }
+    public void descontoIfElse(){
+        System.out.println("Informe o preço do produto:");
+        double precoProduto = scan.nextDouble();
+    }
 }
