@@ -1,0 +1,7 @@
+if (condição) {
+    //tomada de decisão
+}else if(condição 2)
+    //tomada de decisão 2
+}else{
+    //tomada de decisão 3
+    }
